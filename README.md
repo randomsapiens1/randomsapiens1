@@ -31,6 +31,12 @@ I build and ship web applications from idea to production, working across **fron
 <img src="./assets/badges/tailwindcss.svg" alt="Tailwind CSS">
 <img src="./assets/badges/vercel.svg" alt="Vercel">
 
+**DevOps & Tools**
+
+<img src="./assets/badges/docker.svg" alt="Docker">
+<img src="./assets/badges/linux.svg" alt="Linux">
+<img src="./assets/badges/git.svg" alt="Git">
+
 I'm interested in building technology that solves real problems, particularly at the intersection of **civic tech, communities, accessibility, and the web**.
 
 **Things I've built:**
