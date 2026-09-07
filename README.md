@@ -31,7 +31,7 @@ I build and ship web applications from idea to production, working across **fron
 <img src="./assets/badges/tailwindcss.svg" alt="Tailwind CSS">
 <img src="./assets/badges/vercel.svg" alt="Vercel">
 
-**DevOps & Tools**
+**Also work with**
 
 <img src="./assets/badges/docker.svg" alt="Docker">
 <img src="./assets/badges/linux.svg" alt="Linux">
@@ -42,16 +42,16 @@ I'm interested in building technology that solves real problems, particularly at
 **Things I've built:**
 
 - 🏛️ **[Docket](https://docket.bd)** ([LinkedIn](https://linkedin.com/company/trydocket)) — a production civic-tech platform built with Next.js, Supabase, and structured government-service data to simplify navigating government services in Bangladesh
-- 🗂️ **[Project Apa](https://projectapa.com)** ([LinkedIn](https://linkedin.com/company/project-apa)) — a documentation platform for grassroots organisations, built to manage activities, records, and reporting in one place
-- 💡 **[ShitBucket](https://shitbucket.fyi)** — an open-source productivity and idea-management tool that I'm continuously building and experimenting with
+- 🗂️ **[Project Apa](https://projectapa.com)** ([LinkedIn](https://linkedin.com/company/project-apa)) — a documentation platform for grassroots organisations, designed to manage activities, records, and reporting in one place
+- 💡 **[ShitBucket](https://shitbucket.fyi)** — an open-source idea and task management tool I'm building around the simple idea that good ideas shouldn't disappear just because you don't have time to build them yet
 
-Beyond my own products, I've worked as a freelance developer on multiple web platforms, taking projects from requirements and architecture through development, deployment, and iteration.
+I've also worked as a freelance developer on multiple web platforms, taking projects from requirements and architecture through development, deployment, and iteration.
 
 I'm especially interested in **full-stack development, product engineering, civic tech, open source, and cybersecurity**.
 
 </td>
 <td width="30%" align="center">
-<img src="./assets/sidebar.jpg" width="100%" alt="young Rajkumary"/>
+<img src="./assets/github-rightbar.svg" width="100%" alt="young Rajkumary"/>
 </td>
 </tr>
 </table>
