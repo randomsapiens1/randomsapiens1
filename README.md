@@ -51,7 +51,7 @@ I'm especially interested in **full-stack development, product engineering, civi
 
 </td>
 <td width="30%" align="center">
-<img src="./assets/sidebar.jpg" width="100%" alt="young Rajkumary"/>
+<img src="./assets/sidebar.svg" width="100%" alt="young Rajkumary"/>
 </td>
 </tr>
 </table>
