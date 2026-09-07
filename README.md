@@ -7,7 +7,7 @@
 [![Docket](https://img.shields.io/badge/DOCKET.BD-141321?style=for-the-badge&logo=googlechrome&logoColor=white)](https://docket.bd)
 [![ShitBucket](https://img.shields.io/badge/SHITBUCKET.FYI-141321?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shitbucket.fyi)
 [![Project Apa](https://img.shields.io/badge/PROJECTAPA.COM-141321?style=for-the-badge&logo=googlechrome&logoColor=white)](https://projectapa.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/rajkuamryehere)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajkumaryhere/)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajkumaryhere@gmail.com)
 
 </div>
