@@ -33,8 +33,7 @@ Beyond my own products, I've worked as a freelance developer on multiple web pla
 
 </td>
 <td width="30%" align="center">
-<img src="./assets/childhood.jpg" width="220" alt="young Rajkumary"/>
-
+<img src="./assets/sidebar.jpg" width="100%" alt="young Rajkumary"/>
 </td>
 </tr>
 </table>
