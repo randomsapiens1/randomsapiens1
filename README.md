@@ -21,7 +21,15 @@
 
 Full-stack software developer · activist · curious builder, based in Bangladesh.
 
-I build and ship web applications from idea to production, working across **frontend, backend, databases, authentication, APIs, and deployment**. My current stack includes **Next.js, React, TypeScript, Supabase, PostgreSQL, Tailwind CSS, and Vercel**.
+I build and ship web applications from idea to production, working across **frontend, backend, databases, authentication, APIs, and deployment**. My current stack:
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 I'm interested in building technology that solves real problems, particularly at the intersection of **civic tech, communities, accessibility, and the web**.
 
