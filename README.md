@@ -9,8 +9,13 @@
 [![Project Apa](https://img.shields.io/badge/PROJECTAPA.COM-141321?style=for-the-badge&logo=googlechrome&logoColor=white)](https://projectapa.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajkumaryhere/)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajkumaryhere@gmail.com)
+[![Resume](https://img.shields.io/badge/RESUME-141321?style=for-the-badge&logo=readdotcv&logoColor=white)](./assets/resume.pdf)
 
 </div>
+
+<table>
+<tr>
+<td width="70%" valign="top">
 
 ### Hey there, I'm Rajkumary 👋
 
@@ -25,6 +30,14 @@ I'm interested in building technology that solves real problems, particularly at
 - 💡 **[ShitBucket](https://shitbucket.fyi)** — an open-source space for capturing and organising ideas
 
 Beyond my own products, I've worked as a freelance developer on multiple web platforms, helping turn ideas and requirements into functional, user-focused digital experiences.
+
+</td>
+<td width="30%" align="center">
+<img src="./assets/childhood.jpg" width="220" alt="young Rajkumary"/>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=randomsapiens1&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
