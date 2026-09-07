@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="34" viewBox="0 0 104 34" role="img" aria-label="Supabase">
+  <title>Supabase</title>
+  <defs>
+    <filter id="shadow-supabase" x="-20%" y="-40%" width="140%" height="220%">
+      <feDropShadow dx="0" dy="1" stdDeviation="1.1" flood-color="#000000" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+  <rect x="0.5" y="0.5" width="103" height="33" rx="8" fill="#FFFFFF" stroke="#E4E4E7" stroke-width="1" filter="url(#shadow-supabase)"/>
+  <g transform="translate(12, 9.5) scale(0.6250)" fill="#18181B">
+    <path d="M11.9 1.036c-.015-.986-1.26-1.41-1.874-.637L.764 12.05C-.33 13.427.65 15.455 2.409 15.455h9.579l.113 7.51c.014.985 1.259 1.408 1.873.636l9.262-11.653c1.093-1.375.113-3.403-1.645-3.403h-9.642z"/>
+  </g>
+  <text x="34" y="17.0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#18181B" dominant-baseline="central" letter-spacing="0.1">Supabase</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="34" viewBox="0 0 94 34" role="img" aria-label="Resume">
+  <title>Resume</title>
+  <defs>
+    <filter id="shadow-resume" x="-20%" y="-40%" width="140%" height="220%">
+      <feDropShadow dx="0" dy="1" stdDeviation="1.1" flood-color="#000000" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+  <rect x="0.5" y="0.5" width="93" height="33" rx="8" fill="#FFFFFF" stroke="#E4E4E7" stroke-width="1" filter="url(#shadow-resume)"/>
+  <g transform="translate(12, 9.5) scale(0.6250)" fill="#18181B">
+    <path fill-rule="evenodd" d="M5.625 1.5c-1.036 0-1.875.84-1.875 1.875v17.25c0 1.035.84 1.875 1.875 1.875h12.75c1.035 0 1.875-.84 1.875-1.875V12.75A3.75 3.75 0 0 0 16.5 9h-1.875a1.875 1.875 0 0 1-1.875-1.875V5.25A3.75 3.75 0 0 0 9 1.5H5.625ZM7.5 15a.75.75 0 0 1 .75-.75h7.5a.75.75 0 0 1 0 1.5h-7.5A.75.75 0 0 1 7.5 15Zm.75 2.25a.75.75 0 0 0 0 1.5H12a.75.75 0 0 0 0-1.5H8.25Z" clip-rule="evenodd"/>
+  <path d="M12.971 1.816A5.23 5.23 0 0 1 14.25 5.25v1.875c0 .207.168.375.375.375H16.5a5.23 5.23 0 0 1 3.434 1.279 9.768 9.768 0 0 0-6.963-6.963Z"/>
+  </g>
+  <text x="34" y="17.0" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#18181B" dominant-baseline="central" letter-spacing="0.1">Resume</text>
+</svg>

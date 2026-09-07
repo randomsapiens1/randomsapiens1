@@ -4,12 +4,12 @@
 
 <div align="center">
 
-<a href="https://docket.bd"><img src="https://img.shields.io/badge/Docket.bd-FFFFFF?style=flat&logo=googlechrome&logoColor=black&labelColor=FFFFFF&color=FFFFFF" alt="Docket" style="border:1px solid #000000;border-radius:3px;"></a>
-<a href="https://shitbucket.fyi"><img src="https://img.shields.io/badge/ShitBucket.fyi-FFFFFF?style=flat&logo=googlechrome&logoColor=black&labelColor=FFFFFF&color=FFFFFF" alt="ShitBucket" style="border:1px solid #000000;border-radius:3px;"></a>
-<a href="https://projectapa.com"><img src="https://img.shields.io/badge/ProjectApa.com-FFFFFF?style=flat&logo=googlechrome&logoColor=black&labelColor=FFFFFF&color=FFFFFF" alt="Project Apa" style="border:1px solid #000000;border-radius:3px;"></a>
-<a href="https://www.linkedin.com/in/rajkumaryhere/"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=flat&logo=linkedin&logoColor=black&labelColor=FFFFFF&color=FFFFFF" alt="LinkedIn" style="border:1px solid #000000;border-radius:3px;"></a>
-<a href="mailto:rajkumaryhere@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=flat&logo=gmail&logoColor=black&labelColor=FFFFFF&color=FFFFFF" alt="Gmail" style="border:1px solid #000000;border-radius:3px;"></a>
-<a href="./assets/resume.pdf"><img src="https://img.shields.io/badge/Resume-FFFFFF?style=flat&logo=readdotcv&logoColor=black&labelColor=FFFFFF&color=FFFFFF" alt="Resume" style="border:1px solid #000000;border-radius:3px;"></a>
+<a href="https://docket.bd"><img src="./assets/badges/docket.svg" alt="Docket"></a>
+<a href="https://shitbucket.fyi"><img src="./assets/badges/shitbucket.svg" alt="ShitBucket"></a>
+<a href="https://projectapa.com"><img src="./assets/badges/projectapa.svg" alt="Project Apa"></a>
+<a href="https://www.linkedin.com/in/rajkumaryhere/"><img src="./assets/badges/linkedin.svg" alt="LinkedIn"></a>
+<a href="mailto:rajkumaryhere@gmail.com"><img src="./assets/badges/gmail.svg" alt="Gmail"></a>
+<a href="./assets/resume.pdf"><img src="./assets/badges/resume.svg" alt="Resume"></a>
 
 </div>
 
@@ -23,13 +23,13 @@ Full-stack software developer · activist · curious builder, based in Banglades
 
 I build and ship web applications from idea to production, working across **frontend, backend, databases, authentication, APIs, and deployment**. My current stack:
 
-<img src="https://img.shields.io/badge/Next.js-FFFFFF?style=flat&logo=nextdotjs&logoColor=black&labelColor=FFFFFF&color=FFFFFF" alt="Next.js" style="border:1px solid #000000;border-radius:3px;">
-<img src="https://img.shields.io/badge/React-FFFFFF?style=flat&logo=react&logoColor=black&labelColor=FFFFFF&color=FFFFFF" alt="React" style="border:1px solid #000000;border-radius:3px;">
-<img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=flat&logo=typescript&logoColor=black&labelColor=FFFFFF&color=FFFFFF" alt="TypeScript" style="border:1px solid #000000;border-radius:3px;">
-<img src="https://img.shields.io/badge/Supabase-FFFFFF?style=flat&logo=supabase&logoColor=black&labelColor=FFFFFF&color=FFFFFF" alt="Supabase" style="border:1px solid #000000;border-radius:3px;">
-<img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=flat&logo=postgresql&logoColor=black&labelColor=FFFFFF&color=FFFFFF" alt="PostgreSQL" style="border:1px solid #000000;border-radius:3px;">
-<img src="https://img.shields.io/badge/Tailwind_CSS-FFFFFF?style=flat&logo=tailwindcss&logoColor=black&labelColor=FFFFFF&color=FFFFFF" alt="Tailwind CSS" style="border:1px solid #000000;border-radius:3px;">
-<img src="https://img.shields.io/badge/Vercel-FFFFFF?style=flat&logo=vercel&logoColor=black&labelColor=FFFFFF&color=FFFFFF" alt="Vercel" style="border:1px solid #000000;border-radius:3px;">
+<img src="./assets/badges/nextjs.svg" alt="Next.js">
+<img src="./assets/badges/react.svg" alt="React">
+<img src="./assets/badges/typescript.svg" alt="TypeScript">
+<img src="./assets/badges/supabase.svg" alt="Supabase">
+<img src="./assets/badges/postgresql.svg" alt="PostgreSQL">
+<img src="./assets/badges/tailwindcss.svg" alt="Tailwind CSS">
+<img src="./assets/badges/vercel.svg" alt="Vercel">
 
 I'm interested in building technology that solves real problems, particularly at the intersection of **civic tech, communities, accessibility, and the web**.
 
