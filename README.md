@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner-3.jpeg" width="100%" alt="banner" />
+  <img src="./assets/github-cover.svg" width="100%" alt="banner" />
 </div>
 
 <div align="center">
@@ -51,7 +51,7 @@ I'm especially interested in **full-stack development, product engineering, civi
 
 </td>
 <td width="30%" align="center">
-<img src="./assets/github-rightbar.svg" width="100%" alt="young Rajkumary"/>
+<img src="./assets/sidebar.jpg" width="100%" alt="young Rajkumary"/>
 </td>
 </tr>
 </table>
