@@ -4,12 +4,12 @@
 
 <div align="center">
 
-[![Docket](https://img.shields.io/badge/DOCKET.BD-141321?style=for-the-badge&logo=googlechrome&logoColor=white)](https://docket.bd)
-[![ShitBucket](https://img.shields.io/badge/SHITBUCKET.FYI-141321?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shitbucket.fyi)
-[![Project Apa](https://img.shields.io/badge/PROJECTAPA.COM-141321?style=for-the-badge&logo=googlechrome&logoColor=white)](https://projectapa.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajkumaryhere/)
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajkumaryhere@gmail.com)
-[![Resume](https://img.shields.io/badge/RESUME-141321?style=for-the-badge&logo=readdotcv&logoColor=white)](./assets/resume.pdf)
+<a href="https://docket.bd"><img src="https://img.shields.io/badge/Docket.bd-FFFFFF?style=flat&logo=googlechrome&logoColor=black&labelColor=FFFFFF&color=FFFFFF" alt="Docket" style="border:1px solid #000000;border-radius:3px;"></a>
+<a href="https://shitbucket.fyi"><img src="https://img.shields.io/badge/ShitBucket.fyi-FFFFFF?style=flat&logo=googlechrome&logoColor=black&labelColor=FFFFFF&color=FFFFFF" alt="ShitBucket" style="border:1px solid #000000;border-radius:3px;"></a>
+<a href="https://projectapa.com"><img src="https://img.shields.io/badge/ProjectApa.com-FFFFFF?style=flat&logo=googlechrome&logoColor=black&labelColor=FFFFFF&color=FFFFFF" alt="Project Apa" style="border:1px solid #000000;border-radius:3px;"></a>
+<a href="https://www.linkedin.com/in/rajkumaryhere/"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=flat&logo=linkedin&logoColor=black&labelColor=FFFFFF&color=FFFFFF" alt="LinkedIn" style="border:1px solid #000000;border-radius:3px;"></a>
+<a href="mailto:rajkumaryhere@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=flat&logo=gmail&logoColor=black&labelColor=FFFFFF&color=FFFFFF" alt="Gmail" style="border:1px solid #000000;border-radius:3px;"></a>
+<a href="./assets/resume.pdf"><img src="https://img.shields.io/badge/Resume-FFFFFF?style=flat&logo=readdotcv&logoColor=black&labelColor=FFFFFF&color=FFFFFF" alt="Resume" style="border:1px solid #000000;border-radius:3px;"></a>
 
 </div>
 
@@ -23,13 +23,13 @@ Full-stack software developer · activist · curious builder, based in Banglades
 
 I build and ship web applications from idea to production, working across **frontend, backend, databases, authentication, APIs, and deployment**. My current stack:
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://img.shields.io/badge/Next.js-FFFFFF?style=flat&logo=nextdotjs&logoColor=black&labelColor=FFFFFF&color=FFFFFF" alt="Next.js" style="border:1px solid #000000;border-radius:3px;">
+<img src="https://img.shields.io/badge/React-FFFFFF?style=flat&logo=react&logoColor=black&labelColor=FFFFFF&color=FFFFFF" alt="React" style="border:1px solid #000000;border-radius:3px;">
+<img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=flat&logo=typescript&logoColor=black&labelColor=FFFFFF&color=FFFFFF" alt="TypeScript" style="border:1px solid #000000;border-radius:3px;">
+<img src="https://img.shields.io/badge/Supabase-FFFFFF?style=flat&logo=supabase&logoColor=black&labelColor=FFFFFF&color=FFFFFF" alt="Supabase" style="border:1px solid #000000;border-radius:3px;">
+<img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=flat&logo=postgresql&logoColor=black&labelColor=FFFFFF&color=FFFFFF" alt="PostgreSQL" style="border:1px solid #000000;border-radius:3px;">
+<img src="https://img.shields.io/badge/Tailwind_CSS-FFFFFF?style=flat&logo=tailwindcss&logoColor=black&labelColor=FFFFFF&color=FFFFFF" alt="Tailwind CSS" style="border:1px solid #000000;border-radius:3px;">
+<img src="https://img.shields.io/badge/Vercel-FFFFFF?style=flat&logo=vercel&logoColor=black&labelColor=FFFFFF&color=FFFFFF" alt="Vercel" style="border:1px solid #000000;border-radius:3px;">
 
 I'm interested in building technology that solves real problems, particularly at the intersection of **civic tech, communities, accessibility, and the web**.
 
