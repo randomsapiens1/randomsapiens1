@@ -40,6 +40,5 @@ Beyond my own products, I've worked as a freelance developer on multiple web pla
 </table>
 
 <div align="center">
-  <img src="./assets/stats.svg" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=randomsapiens1&theme=midnight-purple&hide_border=true" alt="GitHub Streak" height="165"/>
 </div>
