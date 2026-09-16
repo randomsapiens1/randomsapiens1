@@ -57,5 +57,5 @@ I'm especially interested in **full-stack development, product engineering, civi
 </table>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=randomsapiens1&theme=midnight-purple&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=randomsapiens1&theme=midnight-purple&hide_border=true" alt="GitHub Streak" height="165"/>
 </div>
