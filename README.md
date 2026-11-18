@@ -7,6 +7,7 @@
 <a href="https://docket.bd"><img src="./assets/badges/docket.svg" alt="Docket"></a>
 <a href="https://shitbucket.fyi"><img src="./assets/badges/shitbucket.svg" alt="ShitBucket"></a>
 <a href="https://projectapa.com"><img src="./assets/badges/projectapa.svg" alt="Project Apa"></a>
+<a href="https://stealmyserp.com"><img src="./assets/badges/stealmyserp.svg" alt="StealMySERP"></a>
 <a href="https://www.linkedin.com/in/rajkumaryhere/"><img src="./assets/badges/linkedin.svg" alt="LinkedIn"></a>
 <a href="mailto:rajkumaryhere@gmail.com"><img src="./assets/badges/gmail.svg" alt="Gmail"></a>
 <a href="./assets/resume.pdf"><img src="./assets/badges/resume.svg" alt="Resume"></a>
@@ -19,6 +20,7 @@ Full-stack software developer · activist · curious builder, based in Banglades
 
 I build and ship web applications from idea to production, working across **frontend, backend, databases, authentication, APIs, and deployment**. My current stack:
 
+<p>
 <img src="./assets/badges/nextjs.svg" alt="Next.js">
 <img src="./assets/badges/react.svg" alt="React">
 <img src="./assets/badges/typescript.svg" alt="TypeScript">
@@ -26,12 +28,15 @@ I build and ship web applications from idea to production, working across **fron
 <img src="./assets/badges/postgresql.svg" alt="PostgreSQL">
 <img src="./assets/badges/tailwindcss.svg" alt="Tailwind CSS">
 <img src="./assets/badges/vercel.svg" alt="Vercel">
+</p>
 
 **Also work with**
 
+<p>
 <img src="./assets/badges/docker.svg" alt="Docker">
 <img src="./assets/badges/linux.svg" alt="Linux">
 <img src="./assets/badges/git.svg" alt="Git">
+</p>
 
 I'm interested in building technology that solves real problems, particularly at the intersection of **civic tech, communities, accessibility, and the web**.
 
