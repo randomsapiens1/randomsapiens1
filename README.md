@@ -13,10 +13,6 @@
 
 </div>
 
-<table>
-<tr>
-<td width="70%" valign="top">
-
 ### Hey there, I'm Rajkumary 👋
 
 Full-stack software developer · activist · curious builder, based in Bangladesh.
@@ -48,13 +44,6 @@ I'm interested in building technology that solves real problems, particularly at
 I've also worked as a freelance developer on multiple web platforms, taking projects from requirements and architecture through development, deployment, and iteration.
 
 I'm especially interested in **full-stack development, product engineering, civic tech, open source, and cybersecurity**.
-
-</td>
-<td width="30%" align="center">
-<img src="./assets/sidebar.svg" width="100%" alt="young Rajkumary"/>
-</td>
-</tr>
-</table>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=randomsapiens1&theme=midnight-purple&hide_border=true" alt="GitHub Streak" height="165"/>
