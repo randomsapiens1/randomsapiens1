@@ -51,5 +51,5 @@ I've also worked as a freelance developer on multiple web platforms, taking proj
 I'm especially interested in **full-stack development, product engineering, civic tech, open source, and cybersecurity**.
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=randomsapiens1&theme=midnight-purple&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=randomsapiens1&background=18181B&border=27272A&border_radius=8&stroke=27272A&ring=FAFAFA&fire=FAFAFA&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=FAFAFA&sideLabels=A1A1AA&dates=71717A" alt="GitHub Streak" height="165"/>
 </div>
