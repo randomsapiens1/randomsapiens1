@@ -45,6 +45,7 @@ I'm interested in building technology that solves real problems, particularly at
 - 🏛️ **[Docket](https://docket.bd)** ([LinkedIn](https://linkedin.com/company/trydocket)) — a production civic-tech platform built with Next.js, Supabase, and structured government-service data to simplify navigating government services in Bangladesh
 - 🗂️ **[Project Apa](https://projectapa.com)** ([LinkedIn](https://linkedin.com/company/project-apa)) — a documentation platform for grassroots organisations, designed to manage activities, records, and reporting in one place
 - 💡 **[ShitBucket](https://shitbucket.fyi)** — an open-source idea and task management tool I'm building around the simple idea that good ideas shouldn't disappear just because you don't have time to build them yet
+- 🔍 **[StealMySERP](https://stealmyserp.com)** — an SEO and competitor-analysis tool that reads your site, checks live Google results for the searches your customers make, and shows who outranks you, what they cover that you don't, and which sites Google's AI Overviews cite
 
 I've also worked as a freelance developer on multiple web platforms, taking projects from requirements and architecture through development, deployment, and iteration.
 
